@@ -9,4 +9,4 @@
 
 ### インストール
 
-- https://raw.githubusercontent.com/hirotada-t/tampermonkey/main/jooto/copyTemplate.user.js にアクセスしインストール
+- https://raw.githubusercontent.com/hirotada-t/tinyScript/main/tampermonkey/jooto/copyTemplate.user.js にアクセスしインストール
